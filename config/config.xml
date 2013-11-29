@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<configdata>
+    <production>
+        <webhost>[YOUR_APACHE_MAIL2MYSQL_INSTALL_URL]</webhost>
+        <database>
+            <type>mysqli</type>
+            <host>localhost</host>
+            <username></username>
+            <password></password>
+            <name></name>
+        </database>
+        <outputdirectory>
+            <path>[YOUR_APACHE_HTTP_WEB_FOLDER]</path>
+        </outputdirectory>
+        <httpdownload>
+            <url>[YOUR_APACHE_HTTP_WEB_FOLDER_URL]</url>
+        </httpdownload>
+    </production>
+</configdata>
